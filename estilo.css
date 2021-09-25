@@ -1,0 +1,24 @@
+body {
+  text-align: center;
+  background-image: url("https://i.pinimg.com/originals/e3/22/95/e322954c177d477ed505d2c6a31ee69d.gif");
+}
+
+footer {
+  color: white;
+  position: fixed;
+  bottom: 0;
+  left: 20px;
+  right: 20px;
+}
+
+.container {
+  justify-content: center;
+  justify-content: space-evenly;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+#nucia {
+  color: white;
+  font-style: italic;
+  font-size: 35px;
+}
