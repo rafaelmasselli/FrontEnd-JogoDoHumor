@@ -4,5 +4,5 @@
  
  
 <li>Introducao a html css e document</li>
-<li>Projeto feito com html e css simples com conteiner responsivo, usando um scrpit.js para mudar as imagens de humor</l1>
+<li>Projeto feito com html e css simples com conteiner responsivo, usando um script.js para mudar as imagens de humor</l1>
 
