@@ -1,5 +1,9 @@
 <h1 align="center"> ⚡ Projeto jogo do humor ⚡ </h1>
 
+## Git pages do projeto
+
+### https://rafaelmasselli.github.io/FrontEnd-JogoDoHumor/
+
 ## Descrição
 
 ### Projeto feito com <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">Html</a> e <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">Css </a> simples com conteiner responsivo, usando um <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">script.js</a> para mudar as imagens de humor
