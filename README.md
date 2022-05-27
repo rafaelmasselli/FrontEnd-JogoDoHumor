@@ -28,11 +28,11 @@ git clone https://github.com/rafaelmasselli/FrontEnd-JogoDoHumor
 
 > Aperte no index.html
 
-![](./Readme/index.html.png)
+![Entrada do html no projeto](./Readme/index.html.png)
 
 >  E assim ira abrir o projeto
 
-![](./Readme/Projeto.png)
+![Abrindo o projeto](./Readme/Projeto.png)
 
 
 ## Ferramentas de aprendizado
